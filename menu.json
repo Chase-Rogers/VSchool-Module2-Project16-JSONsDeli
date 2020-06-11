@@ -1,0 +1,62 @@
+{
+    "appetizers": [
+        {
+            "name": "sushi",
+            "ingredients": ["rice","seaweed","shishimi"],
+            "desc": "raw fish and seaweed paired with rice" 
+        },
+        {
+            "name": "calimari",
+            "ingredients": ["octopus","lemon","breading"],
+            "desc": "breaded and battered octopus with a zest of lemon" 
+        }
+    ],
+    "cold sandwiches": [
+        {
+            "name": "turkey sandwich",
+            "ingredients": ["bread","turkey","cheese"],
+            "desc": "turkey and cheese sandwich" 
+        },
+        {
+            "name": "hame and cheese sandwich",
+            "ingredients": ["bread","cheese","ham"],
+            "desc": "cheese and ham" 
+        }
+    ],
+    "hot sandwiches": [
+        {
+            "name": "grilled cheese",
+            "ingredients": ["bread","cheese","tomato"],
+            "desc": "cheese and tomato grilled to perfection" 
+        },
+        {
+            "name": "panini",
+            "ingredients": ["ham","bread","cheese"],
+            "desc": "ham sandwich pressed" 
+        }
+    ],
+    "desserts": [
+        {
+            "name": "cake",
+            "ingredients": ["flour","sugar","milk"],
+            "desc": "yellow cake" 
+        },
+        {
+            "name": "cheesecake",
+            "ingredients": ["cheese","milk","sugar"],
+            "desc": "newyork style cheesecake" 
+        }
+    ],
+    "drink": [
+        {
+            "name": "coke",
+            "ingredients": ["coke syrup","carbonated water","cup?"],
+            "desc": "coke softdrink" 
+        },
+        {
+            "name": "pepsi",
+            "ingredients": ["pepsi syrup","carbonated water","cup?"],
+            "desc": "the better option" 
+        }
+    ]
+}
